@@ -7,9 +7,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    
      <div className='text-center bg-red-200'>
           <h1>Welcome to the Frontend Application</h1>
      </div>
+
   )
 }
 
